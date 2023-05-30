@@ -50,7 +50,7 @@ let linksData = [
   },
   {
     icon: Fire,
-    name: "imsyy热榜",
+    name: "今日热榜",
     link: "https://hot.imsyy.top/",
   }
 ];
