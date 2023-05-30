@@ -49,11 +49,6 @@ let linksData = [
     link: "https://raybynobodycares.gitee.io/",
   },
   {
-    icon: CompactDisc,
-    name: "imsyy音乐",
-    link: "https://music.imsyy.top/",
-  },
-  {
     icon: Fire,
     name: "imsyy热榜",
     link: "https://hot.imsyy.top/",
