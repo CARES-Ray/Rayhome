@@ -6,6 +6,7 @@
         <div class="left">
           <Hitokoto />
           <Music />
+          <Movie />
         </div>
       </el-col>
       <el-col :span="12">
