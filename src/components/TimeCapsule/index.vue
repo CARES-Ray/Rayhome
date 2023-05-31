@@ -45,6 +45,22 @@
       /> -->
     </div>
   </div>
+   <el-progress
+      :text-inside="true"
+      :stroke-width="20"
+      :percentage="timeData.year.pass"
+    />
+    <div v-if="startDateText && store.siteStartShow">
+      <span class="text" v-html="startDateText" />
+      <!-- <el-progress
+        :show-text="false"
+        :indeterminate="true"
+        :stroke-width="6"
+        :percentage="80"
+        :duration="2"
+      /> -->
+    </div>
+  </div>
 </template>
 
 <script setup>
