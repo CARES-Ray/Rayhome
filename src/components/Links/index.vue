@@ -49,11 +49,6 @@ let linksData = [
     link: "https://raybynobodycares.gitee.io/",
   },
   {
-    icon: CompactDisc,
-    name: "Ray 在摸鱼",
-    link: "https://www.crazygames.com/",
-  },
-  {
     icon: Fire,
     name: "今日の热榜",
     link: "https://hot.imsyy.top/",
