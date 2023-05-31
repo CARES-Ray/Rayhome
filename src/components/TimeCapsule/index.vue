@@ -33,13 +33,7 @@
       :percentage="timeData.month.pass"
     />
     <span class="text"
-      >今年已经度过了&nbsp;{{ timeData.year.elapsed }}&nbsp;个月</span
-    >
-    <el-progress
-      :text-inside="true"
-      :stroke-width="20"
-      :percentage="timeData.year.pass"
-    />
+      >今年已经度过了&nbsp;{{ timeData.year.elapsed }}&nbsp;个月</span>
     <div v-if="startDateText && store.siteStartShow">
       <span class="text" v-html="startDateText" />
       <!-- <el-progress
