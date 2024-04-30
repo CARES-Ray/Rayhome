@@ -50,8 +50,8 @@ let linksData = [
   },
   {
     icon: Fire,
-    name: "今日の热榜",
-    link: "https://hot.imsyy.top/",
+    name: "Rayの发布页",
+    link: "https://cares-ray.github.io/Moll-Ray/",
   },
   {
     icon: Book,
